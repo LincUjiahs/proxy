@@ -1,1 +1,8 @@
-d
+{
+  "routes": [
+    {
+      "src": "(.*)",
+      "dest": "https://play.geforcenow.com$1"
+    }
+  ]
+}
